@@ -1,4 +1,4 @@
-name: Myfirst_CICD
+name: Second_CICD
 on:
   workflow_dispatch:
 jobs:
